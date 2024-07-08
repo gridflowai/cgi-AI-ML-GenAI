@@ -1,0 +1,2 @@
+Hello, this is an example.
+Welcome to Python file I/O operations.
